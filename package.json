@@ -1,0 +1,28 @@
+{
+  "name": "react-joyride",
+  "version": "0.0.247",
+  "description": "Demo for V2",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/1oppqow7l3",
+  "main": "index.js",
+  "dependencies": {
+    "disable-scroll": "0.4.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-floater": "0.5.4",
+    "react-joyride": "2.0.0-13",
+    "react-modal": "3.4.4",
+    "react-responsive-carousel": "3.1.37",
+    "react-router-dom": "4.2.2",
+    "styled-components": "3.2.6"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
